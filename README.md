@@ -3,6 +3,11 @@
 An interactive Streamlit-based course recommendation app.  
 Users can select completed courses, train different recommenders, and compare model behavior inside the UI.
 
+## Live Demo
+
+Try the deployed app here:  
+https://course-recommend-system-v2.streamlit.app/
+
 ## Features
 
 - Modern Streamlit interface with interactive course selection (`streamlit-aggrid`)

@@ -75,13 +75,8 @@ MODEL_DESCRIPTIONS = {
     "Hybrid (Recommended)": "Blends content similarity with popularity. Good default when you want stable and practical recommendations.",
     "Course Similarity": "Pure item-item similarity from course content vectors. Works well for focused, topic-near suggestions.",
     "KNN Collaborative": "Collaborative filtering over user-item patterns. Recommends courses liked by users with similar behavior.",
-    "User Profile": "Placeholder in current backend (not fully implemented yet).",
-    "Clustering": "Placeholder in current backend (not fully implemented yet).",
     "Clustering with PCA": "Reduces item vectors with PCA, clusters items, then ranks candidates by cosine similarity to user profile.",
-    "NMF": "Placeholder in current backend (not fully implemented yet).",
     "Neural Network": "Embedding-based neural recommender (Keras). Learns user-item interaction patterns from ratings.",
-    "Regression with Embedding Features": "Placeholder in current backend (not fully implemented yet).",
-    "Classification with Embedding Features": "Placeholder in current backend (not fully implemented yet).",
 }
 
 
